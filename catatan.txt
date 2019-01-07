@@ -1,15 +1,3 @@
-27 - 09 - 2018
-1. membuat database.
-2. membuat menu beranda, input, dan laporan.
-3. membuat data untuk beranda.
-4. memindahkan menu perhitungan kedalam menu input.
-5. membuat tabel hasil untuk menu laporan.
-
-11 - 10 - 2018
-1. menyelesaikan koneksi ke database.
-2. menyimpan data kedatabase.
-
-
 mobileppam9@gmail.com
 ppam1234
 
