@@ -1,0 +1,36 @@
+27 - 09 - 2018
+1. membuat database.
+2. membuat menu beranda, input, dan laporan.
+3. membuat data untuk beranda.
+4. memindahkan menu perhitungan kedalam menu input.
+5. membuat tabel hasil untuk menu laporan.
+
+11 - 10 - 2018
+1. menyelesaikan koneksi ke database.
+2. menyimpan data kedatabase.
+
+
+mobileppam9@gmail.com
+ppam1234
+
+yC2PfqbN34ixjidmWTRW
+
+aplikasippam.000webhostapp.com
+
+17-12-2018
+1. hosting.
+
+Merubah web apk menjadi APK
+1. install java jdk
+2. android SDK
+3. Android studio
+bundle
+1. buat projeck
+2. komponen yang ditambah :
+- web view (ditambah di file Xml)
+- url (...)(java)
+3. compile ->phone
+		emulator
+	   -> apk.
+
+link : https://developer.android.com/guide/webapps/webview#java
